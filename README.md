@@ -1,6 +1,6 @@
-Colégio Estadual João de Faria Pioli
-Projeto de pensamento computacional
-Arthur e Patrícia
+COLÉGIO ESTADUAL JOÃO DE FARIA PIOLI
+PROJETO PENSAMENTO COMPUTACIONAL
+JULIA PRADO,ARTHUR E PATRICIA
 1°E
-Meu site é sobre basquete
+MEU SITE É SOBRE BASQUETE
 # 3trimestre-
